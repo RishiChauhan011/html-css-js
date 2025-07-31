@@ -59,7 +59,7 @@ rock-paper-scissors/
 
 ---
 
-## 👨‍💻 Rishi Chauhan
+## 👨‍💻 Author
 
 Made with ❤️ by [Rishi Chauhan](https://github.com/RishiChauhan011)
 
